@@ -1,4 +1,4 @@
-# TheMobieDB-iOS
+# UsersApp-SwiftUI
 
 ## Installation
 Run git clone to download proyect
